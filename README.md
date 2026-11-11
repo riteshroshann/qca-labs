@@ -60,6 +60,6 @@ The results were produced with Qiskit 2.6 and Qiskit Aer 0.18. Most circuits use
 
 ## Author
 
-Engineered by **Ritesh Roshan Sahoo** (DL.AI.U4AID24036) for the course *Quantum Computing and Algorithms* at Amrita Vishwa Vidyapeetham. The course faculty is Dr. Mrittunjoy G. Majumdar, and the lab instructor is Sakshi.
+Engineered by **Ritesh Roshan Sahoo** (DL.AI.U4AID24036) for the course *23AID303 Quantum Computing and Algorithms* at Amrita Vishwa Vidyapeetham. The course faculty is Dr. Mrittunjoy G. Majumdar, and the lab instructor is Sakshi.
 
 Contact: riteshroshansahoo01@gmail.com
